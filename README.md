@@ -1,7 +1,8 @@
-# Baselime CLI
+# [DEPRECATED] Baselime CLI
 [![npm][npm_badge]][npm]
 [![Documentation][docs_badge]][docs]
 [![Latest Release][release_badge]][release]
+![No Maintenance Intended](https://img.shields.io/maintenance/no/2024.svg)
 [![License][license_badge]][license]<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
